@@ -1,8 +1,8 @@
 #linux
 
-linux文件
+存放linux可执行程序
 
-linux程序
+linux文件
 
 shell脚本文件
 
